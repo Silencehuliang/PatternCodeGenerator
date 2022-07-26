@@ -1,4 +1,0 @@
-{{ test }}
-{% for i in test_list %}
-{{ i["test"] }}
-{% endfor %}
